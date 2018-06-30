@@ -12,8 +12,8 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author MovieController
- * @class Hhe
+ * @author whd
+ * @class MovieController
  * @date 2018/6/30 18:42
  * @description Describe the function of this class in one sentence
  **/

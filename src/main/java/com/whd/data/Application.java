@@ -6,8 +6,8 @@ import org.springframework.data.neo4j.repository.config.EnableNeo4jRepositories;
 
 
 /**
- * @author MovieService
- * @class Hhe
+ * @author whd
+ * @class Application
  * @date 2018/6/30 18:42
  * @description Describe the function of this class in one sentence
  **/

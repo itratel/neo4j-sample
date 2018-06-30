@@ -8,8 +8,8 @@ import org.neo4j.ogm.annotation.NodeEntity;
 
 
 /**
- * @author Person
- * @class Hhe
+ * @author whd
+ * @class Person
  * @date 2018/6/30 18:42
  * @description Describe the function of this class in one sentence
  **/
