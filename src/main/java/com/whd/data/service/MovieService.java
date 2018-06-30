@@ -1,9 +1,9 @@
-package com.lwl.data.service;
+package com.whd.data.service;
 
-import com.lwl.data.domain.Movie;
-import com.lwl.data.domain.Person;
-import com.lwl.data.domain.Relation;
-import com.lwl.data.repos.MovieRepository;
+import com.whd.data.domain.Movie;
+import com.whd.data.domain.Person;
+import com.whd.data.domain.Relation;
+import com.whd.data.repos.MovieRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -11,6 +11,13 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
+
+/**
+ * @author MovieService
+ * @class Hhe
+ * @date 2018/6/30 18:42
+ * @description Describe the function of this class in one sentence
+ **/
 @Service
 public class MovieService {
 

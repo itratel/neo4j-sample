@@ -1,9 +1,9 @@
-package com.lwl.data.controller;
+package com.whd.data.controller;
 
-import com.lwl.data.domain.Movie;
-import com.lwl.data.domain.Person;
-import com.lwl.data.domain.Relation;
-import com.lwl.data.service.MovieService;
+import com.whd.data.domain.Movie;
+import com.whd.data.domain.Person;
+import com.whd.data.domain.Relation;
+import com.whd.data.service.MovieService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -11,6 +11,12 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * @author MovieController
+ * @class Hhe
+ * @date 2018/6/30 18:42
+ * @description Describe the function of this class in one sentence
+ **/
 @RestController
 public class MovieController {
 
